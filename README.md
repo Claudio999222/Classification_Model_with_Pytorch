@@ -24,7 +24,7 @@ This repository provides an in-depth exploration of building classification mode
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/Classification_Model_with_Pytorch.git
+    git clone https://github.com/Claudio999222/Classification_Model_with_Pytorch
     cd Classification_Model_with_Pytorch
     ```
 
